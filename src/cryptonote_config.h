@@ -32,7 +32,7 @@
 //TODO Define number of digits
 #define CRYPTONOTE_DISPLAY_DECIMAL_POINT                2
 //TODO Define number of smallest units in one coin
-#define COIN                                            
+#define COIN                                            UINT64_C(100)  // pow(10, 2)
 //TODO Define default fee for transactions
 #define DEFAULT_FEE                                     01
 
