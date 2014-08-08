@@ -34,7 +34,7 @@
 //TODO Define number of smallest units in one coin
 #define COIN                                            UINT64_C(100)  // pow(10, 2)
 //TODO Define default fee for transactions
-#define DEFAULT_FEE                                     10
+#define DEFAULT_FEE                                     03
 
 //TODO Define preferred block's target time
 #define DIFFICULTY_TARGET                               120 // seconds
